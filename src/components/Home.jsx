@@ -133,6 +133,9 @@ const Home = () => {
                     <p className="text-gray-700">
                       <span className="font-medium">Email: </span>{item.email}
                     </p>
+                     <p className="text-gray-700">
+                      <span className="font-medium">Number: </span>{item.number}
+                    </p>
                     <p className="text-gray-700">
                       <span className="font-medium">Address 1: </span>{item.address1}
                     </p>
